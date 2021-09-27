@@ -10,7 +10,7 @@ VYSHNAVSIR
 /
 lisa
 Public
-forked from VYSHNAVSIR/lisa💖
+forked from ameer-kallumthodi/pikachu
 0
 0151
 Code
@@ -50,7 +50,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨️vyshnavsir🧞‍♂️✨️━━━━━⛦
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 vyshnavsir🧞‍♂️ 𝐛𝐨𝐭.
+𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 𝐯𝐲𝐬𝐡𝐧𝐚𝐯𝐬𝐢𝐫🧞‍♂️ 𝐛𝐨𝐭.
             *lisa💖*
 ■□■□■□■□■□■□■□■□■□■□
 ♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
